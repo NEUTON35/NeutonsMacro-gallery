@@ -1,0 +1,4 @@
+*.nmpack binary
+*.png binary
+*.jpg binary
+*.json text eol=lf
